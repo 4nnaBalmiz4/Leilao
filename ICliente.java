@@ -8,5 +8,6 @@
  * @author AnnaLauraBalmizaSoar
  */
 public interface ICliente {
-    
+    public Integer atualizar(Integer lanceMin);
 }
+
